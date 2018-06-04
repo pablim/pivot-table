@@ -6,18 +6,8 @@ jQuery https://jquery.com/
 
 # Exemple
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
-{::nomarkdown}
-
-<!-- HTML CODE-->
-
-{:/}
-
-´´´<!DOCTYPE html>´´´
+´´´
+<!DOCTYPE html>
 <html>
 <head>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -25,7 +15,6 @@ if (isAwesome){
 	<script type="text/javascript" src="pivot-table.js"></script>
 </head>
 <body>	
-
 <div class="w3-row w3-margin">
 	<div class="w3-col">
 		<table class="pv-pivot-table">
@@ -38,7 +27,6 @@ if (isAwesome){
 					<th>Coluna 5</th>
 				</tr>
 			</thead>
-			<?php for($i=0; $i<5; $i++) {?>
 				<tr>
 					<td>valor 1</td>
 					<td>valor 2</td>
@@ -46,9 +34,23 @@ if (isAwesome){
 					<td>valor 3</td>
 					<td>valor 3</td>
 				</tr>
-			<?php }?>
+				<tr>
+					<td>valor 1</td>
+					<td>valor 2</td>
+					<td>valor 3</td>
+					<td>valor 3</td>
+					<td>valor 3</td>
+				</tr>
+				<tr>
+					<td>valor 1</td>
+					<td>valor 2</td>
+					<td>valor 3</td>
+					<td>valor 3</td>
+					<td>valor 3</td>
+				</tr>
 		</table>
 		</div>
 	</div>
 </body>
-</html>´´´
+</html>
+´´´
