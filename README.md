@@ -1,5 +1,3 @@
-# pivot-table
-
 # Requirements
 
 jQuery https://jquery.com/
@@ -27,30 +25,83 @@ jQuery https://jquery.com/
 					<th>Coluna 5</th>
 				</tr>
 			</thead>
-				<tr>
-					<td>valor 1</td>
-					<td>valor 2</td>
-					<td>valor 3</td>
-					<td>valor 3</td>
-					<td>valor 3</td>
-				</tr>
-				<tr>
-					<td>valor 1</td>
-					<td>valor 2</td>
-					<td>valor 3</td>
-					<td>valor 3</td>
-					<td>valor 3</td>
-				</tr>
-				<tr>
-					<td>valor 1</td>
-					<td>valor 2</td>
-					<td>valor 3</td>
-					<td>valor 3</td>
-					<td>valor 3</td>
-				</tr>
+			<tr>
+				<td>valor 1</td>
+				<td>valor 2</td>
+				<td>valor 3</td>
+				<td>valor 3</td>
+				<td>valor 3</td>
+			</tr>
+			<tr>
+				<td>valor 1</td>
+				<td>valor 2</td>
+				<td>valor 3</td>
+				<td>valor 3</td>
+				<td>valor 3</td>
+			</tr>
+			<tr>
+				<td>valor 1</td>
+				<td>valor 2</td>
+				<td>valor 3</td>
+				<td>valor 3</td>
+				<td>valor 3</td>
+			</tr>
 		</table>
 		</div>
 	</div>
 </body>
 </html>
 ```
+<table>
+	<tr>
+		<th>Coluna 1</th>
+		<th>Coluna 2</th>
+		<th>Coluna 3</th>
+		<th>Coluna 4</th>
+		<th>Coluna 5</th>
+	</tr>
+	<tr>
+		<td>valor 1</td>
+		<td>valor 2</td>
+		<td>valor 3</td>
+		<td>valor 3</td>
+		<td>valor 3</td>
+	</tr>
+	<tr>
+		<td>valor 1</td>
+		<td>valor 2</td>
+		<td>valor 3</td>
+		<td>valor 3</td>
+		<td>valor 3</td>
+	</tr>
+	<tr>
+		<td>valor 1</td>
+		<td>valor 2</td>
+		<td>valor 3</td>
+		<td>valor 3</td>
+		<td>valor 3</td>
+	</tr>
+</table>
+
+<table>
+	<tr>
+    <td>Coluna 1</td>
+    <td>valor 1</td>
+  </tr>
+  <tr>
+  	<td>Coluna 2</td>
+    <td>valor 2</td>
+  </tr>
+  <tr>
+  	<td>Coluna 3</td>
+    <td>valor 3</td>
+  </tr>
+  <tr>
+  	<td>Coluna 4</td>
+    <td>valor 3</td>
+  </tr>
+  <tr>
+  	<td>Coluna 5</td>
+    <td>valor 3</td>
+  </tr>
+</table>
