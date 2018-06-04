@@ -64,44 +64,44 @@ jQuery https://jquery.com/
 		<td>valor 1</td>
 		<td>valor 2</td>
 		<td>valor 3</td>
-		<td>valor 3</td>
-		<td>valor 3</td>
+		<td>valor 4</td>
+		<td>valor 5</td>
 	</tr>
 	<tr>
 		<td>valor 1</td>
 		<td>valor 2</td>
 		<td>valor 3</td>
-		<td>valor 3</td>
-		<td>valor 3</td>
+		<td>valor 4</td>
+		<td>valor 5</td>
 	</tr>
 	<tr>
 		<td>valor 1</td>
 		<td>valor 2</td>
 		<td>valor 3</td>
-		<td>valor 3</td>
-		<td>valor 3</td>
+		<td>valor 4</td>
+		<td>valor 5</td>
 	</tr>
 </table>
 
 <table>
 	<tr>
-    <td>Coluna 1</td>
+    <th>Coluna 1</th>
     <td>valor 1</td>
   </tr>
   <tr>
-  	<td>Coluna 2</td>
+  	<th>Coluna 2</th>
     <td>valor 2</td>
   </tr>
   <tr>
-  	<td>Coluna 3</td>
+  <th>Coluna 3</th>
     <td>valor 3</td>
   </tr>
   <tr>
-  	<td>Coluna 4</td>
+  	<th>Coluna 4</th>
     <td>valor 3</td>
   </tr>
   <tr>
-  	<td>Coluna 5</td>
+  	<th>Coluna 5</th>
     <td>valor 3</td>
   </tr>
 </table>
