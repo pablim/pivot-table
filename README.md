@@ -1,22 +1,21 @@
 # pivot-table
 
+# Requirements
+
+jQuery https://jquery.com/
+
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
-	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="stylesheet" type="text/css" href="w3.css">
 	<script type="text/javascript" src="jquery-3.2.1.js"></script>
 	<script type="text/javascript" src="pivot-table.js"></script>
 </head>
-<body>
+<body>	
 
-	<div class="window-size"></div>
-
-	<div class="w3-row w3-margin">
-		<div class="w3-col">
-		<table class="w3-table w3-striped w3-border w3-bordered w3-card-4 pv-pivot-table">
+<div class="w3-row w3-margin">
+	<div class="w3-col">
+		<table class="pv-pivot-table">
 			<thead>
 				<tr>
 					<th>Coluna 1</th>
@@ -38,7 +37,6 @@
 		</table>
 		</div>
 	</div>
-	
 </body>
 </html>
 
