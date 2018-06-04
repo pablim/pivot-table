@@ -6,6 +6,8 @@ jQuery https://jquery.com/
 
 # Exemple
 
+“every line break is a <br />” 
+
 ´´´
 <!DOCTYPE html>
 <html>
