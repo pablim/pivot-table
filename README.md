@@ -6,6 +6,12 @@ jQuery https://jquery.com/
 
 # Exemple
 
+```javascript
+if (isAwesome){
+  return true
+}
+```
+
 ´´´<!DOCTYPE html>
 <html>
 <head>
