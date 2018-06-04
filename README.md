@@ -4,7 +4,9 @@
 
 jQuery https://jquery.com/
 
-<!DOCTYPE html>
+# Exemple
+
+'''<!DOCTYPE html>
 <html>
 <head>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -38,5 +40,4 @@ jQuery https://jquery.com/
 		</div>
 	</div>
 </body>
-</html>
-
+</html>'''
