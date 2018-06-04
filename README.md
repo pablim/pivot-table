@@ -6,9 +6,7 @@ jQuery https://jquery.com/
 
 # Exemple
 
-“every line break is a <br />” 
-
-```HTML
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -54,4 +52,5 @@ jQuery https://jquery.com/
 		</div>
 	</div>
 </body>
-</html>```
+</html>
+```
