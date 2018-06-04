@@ -83,7 +83,7 @@ jQuery https://jquery.com/
 	</tr>
 </table>
 
-After screen width limit achieved, the pivot table is activated. The limit screen is 600px, you can change this value directly in pivot-table.js
+After screen width limit achieved, the pivot table is activated. The limit screen is 600px by default, you can change this value directly in pivot-table.js in line `var minWindowSize = 600;`
 
 <table>
 	<tr>
