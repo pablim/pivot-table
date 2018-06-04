@@ -11,6 +11,11 @@ if (isAwesome){
   return true
 }
 ```
+{::nomarkdown}
+
+<!-- HTML CODE-->
+
+{:/}
 
 ´´´<!DOCTYPE html>´´´
 <html>
