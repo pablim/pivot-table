@@ -54,11 +54,11 @@ jQuery https://jquery.com/
 ```
 <table>
 	<tr>
-		<th>Coluna 1</th>
-		<th>Coluna 2</th>
-		<th>Coluna 3</th>
-		<th>Coluna 4</th>
-		<th>Coluna 5</th>
+		<th>Header 1</th>
+		<th>Header 2</th>
+		<th>Header 3</th>
+		<th>Header 4</th>
+		<th>Header 5</th>
 	</tr>
 	<tr>
 		<td>valor 1</td>
@@ -83,71 +83,73 @@ jQuery https://jquery.com/
 	</tr>
 </table>
 
+After width limit achieved, the pivot table is activated
+
 <table>
 	<tr>
-    <th>Coluna 1</th>
+    <th>Header 1</th>
     <td>valor 1</td>
   </tr>
   <tr>
-  	<th>Coluna 2</th>
+  	<th>Header 2</th>
     <td>valor 2</td>
   </tr>
   <tr>
-  <th>Coluna 3</th>
+  <th>Header 3</th>
     <td>valor 3</td>
   </tr>
   <tr>
-  	<th>Coluna 4</th>
+  	<th>Header 4</th>
     <td>valor 4</td>
   </tr>
   <tr>
-  	<th>Coluna 5</th>
+  	<th>Header 5</th>
     <td>valor 5</td>
   </tr>
 </table>
 
 <table>
 	<tr>
-    <th>Coluna 1</th>
+    <th>Header 1</th>
     <td>valor 1</td>
   </tr>
   <tr>
-  	<th>Coluna 2</th>
+  	<th>Header 2</th>
     <td>valor 2</td>
   </tr>
   <tr>
-  <th>Coluna 3</th>
+  <th>Header 3</th>
     <td>valor 3</td>
   </tr>
   <tr>
-  	<th>Coluna 4</th>
+  	<th>Header 4</th>
     <td>valor 4</td>
   </tr>
   <tr>
-  	<th>Coluna 5</th>
+  	<th>Header 5</th>
     <td>valor 5</td>
   </tr>
 </table>
 
 <table>
 	<tr>
-    <th>Coluna 1</th>
+    <th>Header 1</th>
     <td>valor 1</td>
   </tr>
   <tr>
-  	<th>Coluna 2</th>
+  	<th>Header 2</th>
     <td>valor 2</td>
   </tr>
   <tr>
-  <th>Coluna 3</th>
+  <th>Header 3</th>
     <td>valor 3</td>
   </tr>
   <tr>
-  	<th>Coluna 4</th>
+  	<th>Header 4</th>
     <td>valor 4</td>
   </tr>
   <tr>
-  	<th>Coluna 5</th>
+  	<th>Header 5</th>
     <td>valor 5</td>
   </tr>
 </table>
