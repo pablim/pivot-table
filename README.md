@@ -8,7 +8,7 @@ jQuery https://jquery.com/
 
 “every line break is a <br />” 
 
-´´´HTML
+```HTML
 <!DOCTYPE html>
 <html>
 <head>
@@ -54,5 +54,4 @@ jQuery https://jquery.com/
 		</div>
 	</div>
 </body>
-</html>
-´´´
+</html>```
