@@ -15,71 +15,57 @@ jQuery https://jquery.com/
 <body>	
 <div class="w3-row w3-margin">
 	<div class="w3-col">
-		<table class="pv-pivot-table">
-			<thead>
+		<table class="pivot-table">
+				<thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Name and last name</th>
+                        <th>E-mail</th>
+                    </tr>
+				</thead>
 				<tr>
-					<th>Coluna 1</th>
-					<th>Coluna 2</th>
-					<th>Coluna 3</th>
-					<th>Coluna 4</th>
-					<th>Coluna 5</th>
-				</tr>
-			</thead>
-			<tr>
-				<td>valor 1</td>
-				<td>valor 2</td>
-				<td>valor 3</td>
-				<td>valor 3</td>
-				<td>valor 3</td>
-			</tr>
-			<tr>
-				<td>valor 1</td>
-				<td>valor 2</td>
-				<td>valor 3</td>
-				<td>valor 3</td>
-				<td>valor 3</td>
-			</tr>
-			<tr>
-				<td>valor 1</td>
-				<td>valor 2</td>
-				<td>valor 3</td>
-				<td>valor 3</td>
-				<td>valor 3</td>
-			</tr>
-		</table>
+                    <td>1</td>
+                    <td>Jon Doe</td>
+                    <td>jon@company.com</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>Gina Frost</td>
+                    <td>gina@company.com</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>Julius Black</td>
+                    <td>julius@company.com</td>
+                </tr>
+			</table>
 		</div>
 	</div>
 </body>
 </html>
 ```
 <table>
+	<thead>
+		<tr>
+			<th>Id</th>
+			<th>Name and last name</th>
+			<th>E-mail</th>
+		</tr>
+	</thead>
 	<tr>
-		<th>Header 1</th>
-		<th>Header 2</th>
-		<th>Header 3</th>
-		<th>Header 4</th>
-		<th>Header 5</th>
+		<td>1</td>
+		<td>Jon Doe</td>
+		<td>jon@company.com</td>
 	</tr>
 	<tr>
-		<td>valor 1</td>
-		<td>valor 2</td>
-		<td>valor 3</td>
-		<td>valor 4</td>
-		<td>valor 5</td>
+		<td>2</td>
+		<td>Gina Frost</td>
+		<td>gina@company.com</td>
 	</tr>
 	<tr>
-		<td>valor 1</td>
-		<td>valor 2</td>
-		<td>valor 3</td>
-		<td>valor 4</td>
-		<td>valor 5</td>
-	</tr>
-	<tr>
-		<td>valor 1</td>
-		<td>valor 2</td>
-		<td>valor 3</td>
-		<td>valor 4</td>
-		<td>valor 5</td>
+		<td>3</td>
+		<td>Julius Black</td>
+		<td>julius@company.com</td>
 	</tr>
 </table>
 
@@ -87,70 +73,46 @@ After screen width limit achieved, the pivot table is activated. The limit scree
 
 <table>
 	<tr>
-    <th>Header 1</th>
-    <td>valor 1</td>
-  </tr>
-  <tr>
-  	<th>Header 2</th>
-    <td>valor 2</td>
-  </tr>
-  <tr>
-  <th>Header 3</th>
-    <td>valor 3</td>
-  </tr>
-  <tr>
-  	<th>Header 4</th>
-    <td>valor 4</td>
-  </tr>
-  <tr>
-  	<th>Header 5</th>
-    <td>valor 5</td>
-  </tr>
+		<th>Id</th>
+		<td>valor 1</td>
+	</tr>
+	<tr>
+		<th>Name and last name</th>
+		<td>valor 2</td>
+	</tr>
+	<tr>
+		<th>E-mail</th>
+		<td>valor 3</td>
+	</tr>
 </table>
 
 <table>
 	<tr>
-    <th>Header 1</th>
-    <td>valor 1</td>
-  </tr>
-  <tr>
-  	<th>Header 2</th>
-    <td>valor 2</td>
-  </tr>
-  <tr>
-  <th>Header 3</th>
-    <td>valor 3</td>
-  </tr>
-  <tr>
-  	<th>Header 4</th>
-    <td>valor 4</td>
-  </tr>
-  <tr>
-  	<th>Header 5</th>
-    <td>valor 5</td>
-  </tr>
+		<th>Id</th>
+		<td>valor 1</td>
+	</tr>
+	<tr>
+		<th>Name and last name</th>
+		<td>valor 2</td>
+	</tr>
+	<tr>
+		<th>E-mail</th>
+		<td>valor 3</td>
+	</tr>
 </table>
 
 <table>
 	<tr>
-    <th>Header 1</th>
-    <td>valor 1</td>
-  </tr>
-  <tr>
-  	<th>Header 2</th>
-    <td>valor 2</td>
-  </tr>
-  <tr>
-  <th>Header 3</th>
-    <td>valor 3</td>
-  </tr>
-  <tr>
-  	<th>Header 4</th>
-    <td>valor 4</td>
-  </tr>
-  <tr>
-  	<th>Header 5</th>
-    <td>valor 5</td>
-  </tr>
+		<th>Id</th>
+		<td>valor 1</td>
+  	</tr>
+	<tr>
+		<th>Name and last name</th>
+		<td>valor 2</td>
+	</tr>
+	<tr>
+		<th>E-mail</th>
+		<td>valor 3</td>
+	</tr>
 </table>
 
