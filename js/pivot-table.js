@@ -31,7 +31,7 @@ function pivot(tables) {
 			}
 			divTable.appendChild(pivotTable);
 		}
-		tables[w].parentElement.appendChild(divTable)
+		$(divTable).insertAfter(tables[w])
 		$(tables[w]).addClass("pivot-table-hide")
 		$(tables[w]).removeClass("pivot-table-show")
 	}
